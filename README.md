@@ -17,7 +17,7 @@ Its functions:
 
 >_ apt install git 
 
->_ git clone https://github.com/b3-v3r/Hunner
+>_ git clone https://github.com/DARKSTUFF-LAB/Hunner
 
 >_ cd Hunner
 
